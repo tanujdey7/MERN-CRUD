@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Virat Kohli",
+      "username": "kingkohli",
+      "email": "kohli@gmail.com",
+      "phone": "9876543210",
+      "id": "1"
+    },
+    {
+      "name": "MS Dhoni",
+      "username": "captaincool",
+      "email": "dhoni@gmail.com",
+      "phone": "9876527777",
+      "id": "3"
+    },
+    {
+      "name": "Joe Root",
+      "username": "rootjoe",
+      "email": "root@gmail.com",
+      "phone": "9182736351",
+      "id": "j2c2y7J"
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "hitman ",
+      "email": "rohit@gmail.com",
+      "phone": "8765432190",
+      "id": "wBHyRZ5"
+    }
+  ]
+}
